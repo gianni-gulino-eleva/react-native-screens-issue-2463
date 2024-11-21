@@ -2926,38 +2926,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"RNScreenBug@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "RNScreenBug@workspace:."
-  dependencies:
-    "@babel/core": ^7.25.2
-    "@babel/preset-env": ^7.25.3
-    "@babel/runtime": ^7.25.0
-    "@react-native-community/cli": 15.0.0-alpha.2
-    "@react-native-community/cli-platform-android": 15.0.0-alpha.2
-    "@react-native-community/cli-platform-ios": 15.0.0-alpha.2
-    "@react-native/babel-preset": 0.76.0
-    "@react-native/eslint-config": 0.76.0
-    "@react-native/metro-config": 0.76.0
-    "@react-native/typescript-config": 0.76.0
-    "@react-navigation/bottom-tabs": ^7.0.6
-    "@react-navigation/native": ^7.0.3
-    "@react-navigation/native-stack": ^7.1.0
-    "@types/react": ^18.2.6
-    "@types/react-test-renderer": ^18.0.0
-    babel-jest: ^29.6.3
-    eslint: ^8.19.0
-    jest: ^29.6.3
-    prettier: 2.8.8
-    react: 18.3.1
-    react-native: 0.76.0
-    react-native-safe-area-context: ^4.14.0
-    react-native-screens: ^4.2.0
-    react-test-renderer: 18.3.1
-    typescript: 5.0.4
-  languageName: unknown
-  linkType: soft
-
 "abbrev@npm:^2.0.0":
   version: 2.0.0
   resolution: "abbrev@npm:2.0.0"
@@ -7959,6 +7927,38 @@ __metadata:
   checksum: 394523434f3c447ff7ace6fddb00fb976b14a1e7bed378eb8ea684a73153962ebcdb51445d9c2052d0d4211f5a69354aafc05875989b7e79bf1c5b592e490438
   languageName: node
   linkType: hard
+
+"react-native-screens-issue-2463@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "react-native-screens-issue-2463@workspace:."
+  dependencies:
+    "@babel/core": ^7.25.2
+    "@babel/preset-env": ^7.25.3
+    "@babel/runtime": ^7.25.0
+    "@react-native-community/cli": 15.0.0-alpha.2
+    "@react-native-community/cli-platform-android": 15.0.0-alpha.2
+    "@react-native-community/cli-platform-ios": 15.0.0-alpha.2
+    "@react-native/babel-preset": 0.76.0
+    "@react-native/eslint-config": 0.76.0
+    "@react-native/metro-config": 0.76.0
+    "@react-native/typescript-config": 0.76.0
+    "@react-navigation/bottom-tabs": ^7.0.6
+    "@react-navigation/native": ^7.0.3
+    "@react-navigation/native-stack": ^7.1.0
+    "@types/react": ^18.2.6
+    "@types/react-test-renderer": ^18.0.0
+    babel-jest: ^29.6.3
+    eslint: ^8.19.0
+    jest: ^29.6.3
+    prettier: 2.8.8
+    react: 18.3.1
+    react-native: 0.76.0
+    react-native-safe-area-context: ^4.14.0
+    react-native-screens: ^4.2.0
+    react-test-renderer: 18.3.1
+    typescript: 5.0.4
+  languageName: unknown
+  linkType: soft
 
 "react-native-screens@npm:^4.2.0":
   version: 4.2.0
