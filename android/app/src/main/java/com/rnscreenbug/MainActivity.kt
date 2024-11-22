@@ -8,6 +8,8 @@ import android.os.Bundle;
 
 class MainActivity : ReactActivity() {
 
+  //react-native-screens override
+  @Override
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(null)
   }
